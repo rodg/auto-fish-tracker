@@ -1,3 +1,5 @@
+NodeCG bundle for fish tracking in NieR:Automata.
+
 Shout outs to [remote-mine](https://github.com/remote-mine) for the client side legwork and [nanami-hitomi](https://github.com/nanami-hitomi) for html/css/animations. 
 
 This tracker is the server end and requires the LiveSplit plugin to send it data. 
